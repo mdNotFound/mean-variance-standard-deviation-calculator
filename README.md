@@ -40,7 +40,6 @@ This project is a requirement for the FreeCodeCamp Data Analysis with Python cer
 
 🔗 Links
 
-FreeCodeCamp Certification
+- *GitHub Repository:* [Mean-Variance-Standard Deviation Calculator](https://github.com/mdNotFound/mean-variance-standard-deviation-calculator)  
+- *My LinkedIn:* [Md Sahanawaz Hussain](https://www.linkedin.com/in/md-sahanawaz-hussain-8aa072364)
 
-My LinkedIn Profile
->>>>>>> 85e74755e24637e77107495bbc710e19595faef9
